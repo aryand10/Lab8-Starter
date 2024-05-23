@@ -1,5 +1,9 @@
 # Lab8-Starter
-## Lab Completed By: Aryan Desai
+## Lab Completed By:
+Aryan Desai
+
+## Pages Link
+[https://aryand10.github.io/Lab8-Starter/](https://aryand10.github.io/Lab8-Starter/)
 
 ### How are graceful degradation and service workers related?
 
